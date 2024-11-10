@@ -9,5 +9,14 @@
   "keywords": [],
   "author": "DIVYA",
   "license": "ISC",
-  "description": "Track your expenses"
+  "description": "Track your expenses",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.7"
+  }
 }
